@@ -1,0 +1,1 @@
+print("This file almost have a purpose")
